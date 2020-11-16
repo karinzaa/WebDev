@@ -5,8 +5,8 @@
 
 ### This scr for ITE-302 </n>
 
-* This is website scr. </n>
+* This is website scr in ITE-302. </n>
 
->***Require `HTML, CSS, JS`***
+>***Require `HTML, CSS, JS, PHP`***
 
 
