@@ -2,7 +2,7 @@
 $host = "localhost";
 $username = "root";
 $pass = "";
-$dbName = "phurit";
+$dbName = "admin";
 
 $db = new mysqli( $host, $username, $pass, $dbName );
 
