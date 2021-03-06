@@ -1,0 +1,7 @@
+/* CSS Document */
+#master{
+	background: url("images/ocean.jpg") center;
+	background-size: cover;
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
